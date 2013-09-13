@@ -57,3 +57,4 @@
 * http://www.webdevout.net/tidings
 * http://yuiblog.com/blog
 * http://blog.youngpup.net/
+* http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
