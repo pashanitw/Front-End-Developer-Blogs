@@ -1,4 +1,3 @@
-
 <h3>Blogs</h3>
 * http://www.smashingmagazine.com/
 * http://designmodo.com/
@@ -58,3 +57,4 @@
 * http://yuiblog.com/blog
 * http://blog.youngpup.net/
 * http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
+* http://msdn.microsoft.com/en-us/magazine/cc163419.aspx
